@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "packageName": "com.test.fakeapp",
+      "title": "FakeApp",
+      "creator": "Retro Dev",
+      "versionName": "0.1",
+      "rating": 3.7,
+      "downloadsText": "500+",
+      "metadataUrl": "https://raw.githubusercontent.com/akivec/retro-play-test/main/apps/com.test.fakeapp/metadata.json"
+    }
+  ]
+}
