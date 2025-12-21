@@ -1,9 +1,0 @@
-"packageName": "com.test.fakeapp",
-  "title": "FakeApp",
-  "creator": "Retro Dev",
-  "versionName": "0.1",
-  "versionCode": 1,
-  "category": "Entertainment",
-  "rating": 3.7,
-  "downloadsText": "500+",
-  "apkUrl": "https://raw.githubusercontent.com/akivec/retro-play-test/main/apps/com.test.fakeapp/app.apk"
