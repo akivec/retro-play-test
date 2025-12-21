@@ -1,0 +1,6 @@
+{
+  "reviews": [
+    { "author": "Tester1", "stars": 5, "text": "Works perfectly in my retro store!" },
+    { "author": "Tester2", "stars": 3, "text": "UI looks nostalgic but needs polish." }
+  ]
+}
