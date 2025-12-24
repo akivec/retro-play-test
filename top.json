@@ -5,9 +5,14 @@
       "title": "FakeApp",
       "creator": "Retro Dev",
       "versionName": "0.1",
+      "versionCode": 1,
       "rating": 3.7,
       "downloadsText": "500+",
-      "metadataUrl": "https://raw.githubusercontent.com/akivec/retro-play-test/main/apps/com.test.fakeapp/metadata.json"
+      "iconUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/icon.png",
+      "apkUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/app.apk",
+      "metadataUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/metadata.json",
+      "descriptionUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/description.html",
+      "reviewsUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/reviews.json"
     }
   ]
 }
