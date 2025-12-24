@@ -7,5 +7,7 @@
   "category": "Entertainment",
   "rating": 3.7,
   "downloadsText": "500+",
-  "apkUrl": "https://raw.githubusercontent.com/akivec/retro-play-test/main/apps/com.test.fakeapp/app.apk"
+  "sizeBytes": 12345678,
+  "iconUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/icon.png",
+  "apkUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/app.apk"
 }
