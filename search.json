@@ -6,9 +6,9 @@
         "creator": "Retro Dev",
         "versionName": "0.1",
         "image": [
-          { "imageUrl": "https://akivec.github.io/retro-play-test/icon.png" }
+          { "imageUrl": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/icon.png" }
         ],
-        "url": "https://akivec.github.io/retro-play-test/FakeApp.apk"
+        "url": "https://akivec.github.io/retro-play-test/apps/com.test.fakeapp/app.apk"
       }
     ]
   }
