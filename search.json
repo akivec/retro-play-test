@@ -1,0 +1,15 @@
+{
+  "docList": {
+    "doc": [
+      {
+        "title": "FakeApp",
+        "creator": "Retro Dev",
+        "versionName": "0.1",
+        "image": [
+          { "imageUrl": "https://akivec.github.io/retro-play-test/icon.png" }
+        ],
+        "url": "https://akivec.github.io/retro-play-test/FakeApp.apk"
+      }
+    ]
+  }
+}
