@@ -1,6 +1,18 @@
 {
   "reviews": [
-    { "author": "Tester1", "stars": 5, "text": "Works perfectly in my retro store!" },
-    { "author": "Tester2", "stars": 3, "text": "UI looks nostalgic but needs polish." }
+    {
+      "author": "Tester1",
+      "rating": 5,
+      "text": "Works perfectly in my retro store!",
+      "date": "2025-12-24",
+      "versionName": "0.1"
+    },
+    {
+      "author": "Tester2",
+      "rating": 3,
+      "text": "UI looks nostalgic but needs polish.",
+      "date": "2025-12-23",
+      "versionName": "0.1"
+    }
   ]
 }
